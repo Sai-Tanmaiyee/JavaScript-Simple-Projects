@@ -31,3 +31,15 @@ DOM Manipulation: Interacting with HTML elements to achieve dynamic behavior.
 Event Handling: Responding to user input, such as button clicks.
 
 Conditional Styling: Dynamically changing the style of an element based on conditions.
+# Nav-bar
+The Navbar project is a responsive navigation bar implementation with a toggle functionality for smaller screens. It features a navigation bar with a logo, links to different sections, and social media icons. The toggle button allows users to expand or collapse the navigation links on smaller screens.
+## Key Features
+Toggle Functionality: The navigation links are initially hidden, and clicking the toggle button (<i class="fas fa-bars"></i>) reveals or hides the links.
+
+Responsive Design: The navigation bar adjusts its layout based on the screen size. On smaller screens, the links are hidden, and the toggle button is displayed.
+
+Dynamic Styling: The links have hover effects and color transitions to enhance the user experience.
+
+Social Media Icons: The navigation bar includes social media icons with subtle hover effects.
+
+Custom Fonts: Utilizes Google Fonts API for a visually appealing typography.
