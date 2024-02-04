@@ -31,6 +31,7 @@ DOM Manipulation: Interacting with HTML elements to achieve dynamic behavior.
 Event Handling: Responding to user input, such as button clicks.
 
 Conditional Styling: Dynamically changing the style of an element based on conditions.
+
 # Nav-bar
 The Navbar project is a responsive navigation bar implementation with a toggle functionality for smaller screens. It features a navigation bar with a logo, links to different sections, and social media icons. The toggle button allows users to expand or collapse the navigation links on smaller screens.
 ## Key Features
@@ -43,3 +44,23 @@ Dynamic Styling: The links have hover effects and color transitions to enhance t
 Social Media Icons: The navigation bar includes social media icons with subtle hover effects.
 
 Custom Fonts: Utilizes Google Fonts API for a visually appealing typography.
+# Reviews Carousel
+The Reviews Carousel is a simple web page component that showcases reviews from different individuals. It includes a set of reviews with associated images, names, job titles, and text feedback. Users can navigate through the reviews using "previous," "next," and "random" buttons. 
+## Technical Knowledge Gained
+DOM Manipulation: Updating HTML elements dynamically to display reviews.
+Event Handling: Responding to user clicks on navigation buttons.
+Array Handling: Managing an array of reviews and navigating through it.
+CSS Styling: Styling for a visually appealing and responsive layout.
+
+## Key Features
+Review Display: Reviews are displayed one at a time, showing the person's image, name, job title, and feedback text.
+
+Navigation Buttons: Users can navigate through the reviews using "previous" and "next" buttons.
+
+Random Review: The "surprise me" button displays a random review each time it's clicked.
+
+Responsive Design: The design adapts to different screen sizes, ensuring a consistent and user-friendly experience.
+
+Underline Animation: A subtle underline animation adds a touch of style to the title.
+
+Hover Effects: Reviews and buttons have hover effects to enhance interactivity.
