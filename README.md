@@ -22,3 +22,12 @@ Responsive Design: The project is designed to be responsive, ensuring a good use
 Navigation Menu: A simple navigation menu allows users to switch between the "simple" and "hex" pages.
 
 Custom Fonts: Utilizes Google Fonts API for a visually appealing typography.
+
+# Counter
+The Counter project is a simple web application that allows users to increment, decrement, or reset a counter value. The user interface consists of a counter value displayed prominently, along with three buttons: "decrease," "reset," and "increase".
+## Technical Knowledge Gained
+DOM Manipulation: Interacting with HTML elements to achieve dynamic behavior.
+
+Event Handling: Responding to user input, such as button clicks.
+
+Conditional Styling: Dynamically changing the style of an element based on conditions.
